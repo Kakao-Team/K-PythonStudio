@@ -1,2 +1,3 @@
 # K-PythonStudio
-Mini python IDE for Android 
+
+An Android application for writing and running Python code, currently under development.  
